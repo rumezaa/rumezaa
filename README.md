@@ -4,10 +4,10 @@
 
 <ul>
   <li>
-    👾 Building Decode (stealth)
+    👾 Building Thing
   </li>
   <li>
-    📈 Optimizing Neural Networks via. ML x Neuro
+    📈 Learning vector dbs
   </li>
   <li>
     ⭐ Unlocking opportunities one tech conference at a time :)
