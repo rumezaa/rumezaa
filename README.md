@@ -7,13 +7,13 @@
     👾 Building Thing
   </li>
   <li>
-    📈 Learning vector dbs
+    📈 Currently exploring vector dbs
   </li>
   <li>
     ⭐ Unlocking opportunities one tech conference at a time :)
   </li>
     <li>
-    📌 Prev. @ Arcurve & Pixeltree Inc., aspiring FAANG dominator </li>
+    📌 Software Eng @ Symbiotic AI, Prev. @ Arcurve & Pixeltree Inc., aspiring FAANG dominator </li>
 </ul>
 
 ##  <a href="https://www.google.com/search?q=Rumeza+Fatima">「 Google Me 」</a>
