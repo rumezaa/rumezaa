@@ -44,6 +44,7 @@
 ## Major Fullstack Projects
 [![Renew](https://github-readme-stats.vercel.app/api/pin/?username=rumezaa&repo=renew&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/rumezaa/Renew)
 [![Blu3Whale ED](https://github-readme-stats.vercel.app/api/pin/?username=rumezaa&repo=blu3whale&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/rumezaa/blu3whale)
+[![meetmidway](https://github-readme-stats.vercel.app/api/pin/?username=MeetMidway&repo=MeetMidway&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/MeetMidway/MeetMidway)
 [![Torpedo Inc](https://github-readme-stats.vercel.app/api/pin/?username=rumezaa&repo=jointorpedo.Inc&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/rumezaa/jointorpedo.Inc)
 
 
