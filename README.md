@@ -32,6 +32,10 @@
       <a href="https://rumezasrace.substack.com/" target="_blank">
   <img src="https://img.shields.io/badge/Substack-%23006f5c.svg?style=for-the-badge&logo=substack&logoColor=a17cf7" alt="rfatima"/>
  </a>
+
+  <a href="https://www.figma.com/design/t9MDds1XizvuS3fBXsGPGo/Rumeza's-Design-Portfolio?node-id=0-1&node-type=canvas&t=gPxyfPTMk8ADWUT9-0" target="_blank">
+  <img src="https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=ffffff" alt="rfatima"/>
+ </a>
     </td>
     <td> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rumezaa&layout=compact&theme=nightowl&hide_border=true&exclude_repo=the-www-blog,clean-water-foundation&langs_count=6" alt="rumezaa" /></td>
   </tr>
