@@ -4,7 +4,7 @@
 
 <ul>
   <li>
-    👾 Building Thing
+    👾 Building something you should
   </li>
   <li>
     📈 Currently exploring vector dbs
