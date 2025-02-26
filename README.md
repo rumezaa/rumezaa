@@ -7,7 +7,7 @@
     👾 Building something you should
   </li>
   <li>
-    📈 Currently exploring vector dbs
+    📈 Exploring more efficient ways to do ordinary things
   </li>
   <li>
     ⭐ Unlocking opportunities one tech conference at a time :)
