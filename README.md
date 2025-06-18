@@ -13,7 +13,7 @@
     ⭐ Unlocking opportunities one tech conference at a time :)
   </li>
     <li>
-    📌 Software Eng, Prev. @ Symbiotic AI, Arcurve & Pixeltree Inc., aspiring FAANG dominator </li>
+    📌 Software Eng, Prev. @ Symbiotic AI, Arcurve & Pixeltree Inc.</li>
 </ul>
 
 ##  <a href="https://www.google.com/search?q=Rumeza+Fatima">「 Google Me 」</a>
